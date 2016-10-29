@@ -1,0 +1,26 @@
+{
+  "name": "ashbot",
+  "version": "1.0.0",
+  "description": "A personal chatbot for Ahmed Ashraf :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ahmedash95/ash-chatbot.git"
+  },
+  "author": "Ahmed Ashraf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmedash95/ash-chatbot/issues"
+  },
+  "homepage": "https://github.com/ahmedash95/ash-chatbot#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "body-parser": "^1.15.0",
+    "config": "^1.20.4",
+    "ejs": "^2.4.2",
+    "request": "^2.72.0"
+  }
+}

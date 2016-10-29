@@ -1,0 +1,6 @@
+{
+    "appSecret": "f6534601358ef65944ee693537538119",
+    "pageAccessToken": "EAACvB3eAZAOEBACWCgQFERpHnJteINbOsREYXvCG2EE4VcodZCaUy0I6wVupQRpjR4CAYbKbGdjdtBRhGXlKRIciBJYwZB85m4ELv6rGgCZCBT0QjF9vVTxQKNlcdRjKKmGL7tVOYk8gspi1DKjTQXZCd3kXgaWYPXDlzei23hgZDZD",
+    "validationToken": "#this-is-ash-web-hook-token",
+    "serverURL": "http://ashbot-92546.onmodulus.net/webhook"
+}
